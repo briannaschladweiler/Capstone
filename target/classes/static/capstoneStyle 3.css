@@ -1,0 +1,95 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Apr 21, 2020, 8:31:44 PM
+    Author     : briannaschladweiler
+*/
+#note {
+    font-size: 0.8em;
+}
+
+.canvasjs-chart-credit {
+    display:none;
+}
+
+body {
+    background-color: #ffffff;
+}
+
+#headBanner {
+    background-color: #2F5A2C;
+    padding: 2rem;
+    border-radius: 8px;
+}
+.m-4 {
+    margin: .5rem!important;
+}
+body {
+    font-family: 'Bookman Old Style', arial;
+}
+#headBanner a {
+    color: white;
+}
+#headBanner a:hover {
+    text-decoration: underline;
+    color: #DAECDD;
+}
+.btn-link {
+    color: #2F5A2C;
+}
+.btn-link:hover {
+    color: #2F5A2C;
+    font-weight: bold;
+}
+.btn-outline-primary {
+    color: #2F5A2C;
+    background-color: white;
+    border-color: #2F5A2C;
+    text-decoration: none;
+    text-align: center;
+    display: block;
+    margin: 0px 5px;
+}
+.btn-outline-primary:hover {
+    color: #DAECDD;
+    background-color: #2F5A2C;
+    border-color: #2F5A2C;
+    text-decoration: none;
+    text-align: center;
+    display: block;
+    margin: 0px 5px;
+}
+.btn-primary {
+    color: white;
+    background-color: #2F5A2C;
+    border-color: #2F5A2C;
+    text-decoration: none;
+}
+.btn-primary:hover {
+    color: white;
+    background-color: #203D1D;
+    border-color: #203D1D;
+}
+
+td a{
+    color: #2F5A2C;
+    font-weight: bold;
+}
+
+td a:hover{
+    color: #8FB28B;
+    font-weight: bold;
+}
+
+h4 {
+    font-weight: bold;
+    color: #2F5A2C;
+}
+
+h3 {
+    font-weight: bold;
+    color: #2F5A2C;
+}
